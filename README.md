@@ -4,12 +4,12 @@ Official repository for the paper *Latent Dynamics for Uncertainty-Aware Bayesia
 
 ## Authors
 
-- **Ivan Bioli**<sup>1,2,†</sup>
-- **Mikel Mendibe**<sup>3,†</sup>
-- **Guillermo Lorenzo**<sup>5,6</sup>
-- **Javier Del Ser**<sup>3,4</sup>
-- **Giancarlo Sangalli**<sup>1,7</sup>
-- **Alessandro Reali**<sup>2,7</sup>
+- **Ivan Bioli**<sup>1,2,†</sup> — [ivan.bioli@unipv.it](mailto:ivan.bioli@unipv.it)
+- **Mikel Mendibe**<sup>3,†</sup> — [mikel.mendibe@tecnalia.com](mailto:mikel.mendibe@tecnalia.com)
+- **Guillermo Lorenzo**<sup>5,6</sup> — [guillermo.lorenzo@udc.es](mailto:guillermo.lorenzo@udc.es)
+- **Javier Del Ser**<sup>3,4</sup> — [javier.delser@tecnalia.com](mailto:javier.delser@tecnalia.com)
+- **Giancarlo Sangalli**<sup>1,7</sup> — [giancarlo.sangalli@unipv.it](mailto:giancarlo.sangalli@unipv.it)
+- **Alessandro Reali**<sup>2,7</sup> — [alessandro.reali@unipv.it](mailto:alessandro.reali@unipv.it)
 
 <sup>1</sup> Dipartimento di Matematica, Università di Pavia, 27100 Pavia, Italy<br>
 <sup>2</sup> Dipartimento di Ingegneria Civile e Architettura, Università di Pavia, 27100 Pavia, Italy<br>
@@ -26,7 +26,7 @@ Official repository for the paper *Latent Dynamics for Uncertainty-Aware Bayesia
 
 ## Code availability
 
-The code to reproduce the results of the paper will be made publicly available in this repository upon publication. In the meantime, it is available upon reasonable request to the authors ([ivan.bioli@unipv.it](mailto:ivan.bioli@unipv.it)).
+The code to reproduce the results of the paper will be made publicly available in this repository upon publication. In the meantime, it is available upon reasonable request to [ivan.bioli@unipv.it](mailto:ivan.bioli@unipv.it) or [mikel.mendibe@tecnalia.com](mailto:mikel.mendibe@tecnalia.com).
 
 ## Citation
 
